@@ -1,5 +1,6 @@
+
 ## Exp. No. 2(a)
-**Date:**  
+**Date:26.09.2025**  
 
 ## DESIGN OF RC PHASE SHIFT OSCILLATOR
 <img width="482" height="638" alt="image" src="https://github.com/user-attachments/assets/d7a08edc-71f1-467d-9e20-747bdeee319d" />
@@ -15,13 +16,15 @@
 # Tabulation
 | Amplitude | Time Period | Practical Frequency | Theoretical Frequency |
 |------------|--------------|----------------------|------------------------|
-|            |              |                      |                        |
+ 3.78 V      |  320.89 ms   |   3.12 KHZ           |           5.8 KHZ      |
 
 # Graph
+![WhatsApp Image 2025-11-28 at 18 08 38_982e3c6c](https://github.com/user-attachments/assets/483a769e-f752-4435-b622-c65b5781b8a7)
 
 
 
 # Sample images 
+<img width="977" height="386" alt="Screenshot 2025-11-28 183239" src="https://github.com/user-attachments/assets/1e9d598d-109d-4fc7-a001-ce600afad129" />
 
 
 
@@ -29,5 +32,5 @@
 
 Thus, the **RC Phase Shift Oscillator** was designed for the given frequency.
 
-- **(i) Theoretical Frequency:**  
-- **(ii) Practical Frequency:**  
+- **(i) Theoretical Frequency:3.12 KHZ**  
+- **(ii) Practical Frequency:5.8 KHZ**  
