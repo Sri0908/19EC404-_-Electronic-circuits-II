@@ -1,5 +1,6 @@
+
 ## Exp. No. 3(a)
-**Date:**  
+**Date:10.10.2025**  
 
 ## DESIGN OF HARTLEY OSCILLATOR
 <img width="999" height="444" alt="image" src="https://github.com/user-attachments/assets/6e423083-e598-4fbb-b42a-bcb4f4608640" />
@@ -16,17 +17,20 @@
 # Tabulation
 | Amplitude | Time Period | Practical Frequency | Theoretical Frequency |
 |------------|--------------|----------------------|------------------------|
-|            |              |                      |                        |
+|  2V          |     20 ms         |        50 KHZ              |      50.35 KHZ                  |
 
 # Graph
+<img width="448" height="561" alt="Screenshot 2025-11-28 184233" src="https://github.com/user-attachments/assets/f1270ad4-9be4-4317-afc0-7dec9a07b3f3" />
+
 
 
 # Sample images 
+<img width="977" height="386" alt="Screenshot 2025-11-28 183239" src="https://github.com/user-attachments/assets/91787273-ced3-4fae-b28a-92a9308b966d" />
 
 
 # Result
 
 Thus, the **HARTLEY OSCILLATOR** was designed for the given frequency.
 
-- **(i) Theoretical Frequency:**  
-- **(ii) Practical Frequency:**  
+- **(i) Theoretical Frequency: 50.35 KHZ**  
+- **(ii) Practical Frequency: 50 KHZ**  
